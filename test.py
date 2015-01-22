@@ -4,7 +4,7 @@
 def print_contributors():
     ### Tristan, make the variable be equal to your name
     
-    t = "Mr. Patterson"
+    t = "Tristan"
     
     
     ### Zach, make this variable be equal to your name
